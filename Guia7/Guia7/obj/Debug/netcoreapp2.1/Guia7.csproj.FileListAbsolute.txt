@@ -1,0 +1,11 @@
+C:\Users\vladi\Desktop\Guia7\Guia7\bin\Debug\netcoreapp2.1\Guia7.deps.json
+C:\Users\vladi\Desktop\Guia7\Guia7\bin\Debug\netcoreapp2.1\Guia7.runtimeconfig.json
+C:\Users\vladi\Desktop\Guia7\Guia7\bin\Debug\netcoreapp2.1\Guia7.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\Guia7\Guia7\bin\Debug\netcoreapp2.1\Guia7.dll
+C:\Users\vladi\Desktop\Guia7\Guia7\bin\Debug\netcoreapp2.1\Guia7.pdb
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.AssemblyInfo.cs
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.dll
+C:\Users\vladi\Desktop\Guia7\Guia7\obj\Debug\netcoreapp2.1\Guia7.pdb
